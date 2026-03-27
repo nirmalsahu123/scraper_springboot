@@ -1,8 +1,4 @@
-# $env:EMAIL_ADDRESS="thenirmal476@gmail.com"
-# $env:EMAIL_APP_PASSWORD="guefsunwzfdrbovb"
-# $env:IMAP_SERVER="imap.gmail.com"
-# $env:EMAIL_ADDRESS_1="theneeru476@gmail.com"
-# $env:EMAIL_APP_PASSWORD_1="udhcyirjgtymabsb"
+
 
 $env:JAVA_HOME = "C:\Program Files\Java\jdk-21.0.10"
 $env:PATH = "$env:JAVA_HOME\bin;" + $env:PATH
