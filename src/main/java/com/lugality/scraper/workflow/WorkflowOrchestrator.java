@@ -18,7 +18,8 @@ public class WorkflowOrchestrator {
     private final LoginService loginService;
     private final SearchService searchService;
     private final ExtractionService extractionService;
-    private final LocalStorageService localStorageService;
+    
+    private final GoogleDriveStorageService localStorageService;
     private final ScraperSettings settings;
 
     private volatile RateLimiter rateLimiter;
